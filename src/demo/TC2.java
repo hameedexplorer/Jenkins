@@ -6,6 +6,6 @@ public class TC2 {
 
 	@Test
 	public void appLogout(){
-		System.out.println("Log out from Jenkins");
+		System.out.println("Welcome to Jenkins");
 	}
 }
